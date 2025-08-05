@@ -27,7 +27,10 @@ Conteúdo completo (título, corpo e comentários) com filtro de data
 
 ## 📸 Demonstrações
 
-<img width="743" height="223" alt="Imagem 1" src="https://github.com/user-attachments/assets/112c9d63-b310-4e35-966a-bd3e4cc034dc" /> <br/> <img width="804" height="213" alt="Imagem 2" src="https://github.com/user-attachments/assets/89c5188e-430d-4cb1-95c5-b551df81d0cb" /> <br/> <img width="613" height="258" alt="Imagem 3" src="https://github.com/user-attachments/assets/3d561b88-9ee5-474e-9fc0-726647630ab2" /> <br/> <img width="829" height="302" alt="Imagem 4" src="https://github.com/user-attachments/assets/cdd416d9-8ab9-4f11-876f-ed1edcf30d8f" /> <br/> <img width="778" height="332" alt="Imagem 5" src="https://github.com/user-attachments/assets/fb0f25b6-8515-4913-8285-be6af2e62cec" /> <br/> <img width="695" height="337" alt="Imagem 6" src="https://github.com/user-attachments/assets/70d10082-ef8a-44ca-968c-4550447a83bf" />
+<img width="935" height="296" alt="Image" src="https://github.com/user-attachments/assets/308507d2-c949-4284-a2b7-888c1c32a9a0" />
+<img width="926" height="302" alt="Image" src="https://github.com/user-attachments/assets/00148766-ba56-443a-a721-ec59041d1a9f" />
+
+<img width="652" height="665" alt="Image" src="https://github.com/user-attachments/assets/0550cc48-f8bb-49c3-8c67-3f6d44292072" />
 
 ## 📁 Estrutura do Projeto
 bash
