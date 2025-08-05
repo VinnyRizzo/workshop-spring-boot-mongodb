@@ -30,6 +30,11 @@ Conteúdo completo (título, corpo e comentários) com filtro de data
 <img width="935" height="296" alt="Image" src="https://github.com/user-attachments/assets/308507d2-c949-4284-a2b7-888c1c32a9a0" />
 <img width="926" height="302" alt="Image" src="https://github.com/user-attachments/assets/00148766-ba56-443a-a721-ec59041d1a9f" />
 
+
+## Mensagem em formato JSON
+
+<img width="569" height="626" alt="Image" src="https://github.com/user-attachments/assets/e72f07de-24cc-4fd8-93b3-896b6f1b50da" />
+
 <img width="652" height="665" alt="Image" src="https://github.com/user-attachments/assets/0550cc48-f8bb-49c3-8c67-3f6d44292072" />
 
 ## 📁 Estrutura do Projeto
